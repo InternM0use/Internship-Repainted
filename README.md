@@ -1,5 +1,5 @@
-# Internship-Sandwich-Fest.
-Internship! A fan game made by Kvas_Salty Rebooted by Me!
+# Internship: Repainted.
+Internship! A fan game made by Kvas_Salty Rebooted/Not by Me!
 
 Welcome to Internship!
 Internship was a Pizza Tower-inspired fangame developed mostly by salty_kvas, with music by The Inverted Iceberg and Voice Acting by derpguy125.
